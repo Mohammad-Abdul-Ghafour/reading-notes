@@ -14,6 +14,6 @@ I'm also enjoying this course, thanks for this opportunity.
 
 READS | LINKS
 --------- | ---------
-Read:01 | [Read:01](./Read:01)
-Read:02 | [Read:02](./Read:02)
+Read:01 | [Read:01](./Read:01.md)
+Read:02 | [Read:02](./Read:02.md)
 
