@@ -9,6 +9,7 @@ So wireframe is a layout of a web page that demonstrates what interface elements
     * In which you can draw you wireframe by hand on paper.
 
     ![Hand drawn wireframe](https://cdn-do.slickplan.com/cdn/wp-uploads/2019/03/hand-drawn-wireframe-1024x683.jpeg)
+    
 2. Using softwares
     * where you use some software to draw your wireframe.
 

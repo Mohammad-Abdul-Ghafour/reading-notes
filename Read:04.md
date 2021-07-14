@@ -7,8 +7,9 @@ JavaScript is a lightweight scripting or programming language that enables you t
 JavaScript language consists of some common programming features that allow you to do things like:
 * Store useful values inside variables. for example:
 
-`var name = "Mohammad"`
-her we give the variable (name) a value of "Mohammad"
+`var name = 10`
+here we assigned to the variable (`name`) a value of `10`
+
 * Running code in response to certain events occurring on a web page. for example:
 ```
 var favMusic = prompt("what is your favorite music?")
