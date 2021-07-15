@@ -22,7 +22,7 @@ So wireframe is a layout of a web page that demonstrates what interface elements
 ### what is HTML?
 HTML stands for hypertext markup language that defines the structure of your content.
 
-In simpl word what your website contains.
+In simple words what your website contains.
 ### So how we use HTML?
 HTML consists of enclose(tags) to make what you writing appears in a certain way.
 
