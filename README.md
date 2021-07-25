@@ -20,5 +20,5 @@ Read:03 | [Read:03](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:
 Read:04 | [Read:04](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:04)
 Read:05 | [Read:05](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:05)
 Read:06 | [Read:06](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:06)
-Read:07 | [Read:07](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:06)
+Read:07 | [Read:07](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:07)
 Growth Mindset | [Growth Mindset](https://mohammad-abdul-ghafour.github.io/reading-notes/Growth-Mindset)
