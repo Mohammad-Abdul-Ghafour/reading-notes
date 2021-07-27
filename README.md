@@ -12,13 +12,18 @@ I'm also enjoying this course, thanks for this opportunity.
 
 # Table of Contents
 
+## Readings for 102:
+
 READS | LINKS
 --------- | ---------
 Read:01 | [Read:01](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:01)
-Read:02 | [Read:02](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:02)
+Read:02 | [Read:02](102/Read:02.md)
 Read:03 | [Read:03](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:03)
 Read:04 | [Read:04](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:04)
 Read:05 | [Read:05](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:05)
 Read:06 | [Read:06](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:06)
 Read:07 | [Read:07](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:07)
 Growth Mindset | [Growth Mindset](https://mohammad-abdul-ghafour.github.io/reading-notes/Growth-Mindset)
+
+## Readings for 201:
+
