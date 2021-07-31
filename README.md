@@ -16,14 +16,17 @@ I'm also enjoying this course, thanks for this opportunity.
 
 READS | LINKS
 --------- | ---------
-Read:01 | [Read:01](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:01)
-Read:02 | [Read:02](102/Read:02.md)
-Read:03 | [Read:03](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:03)
-Read:04 | [Read:04](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:04)
-Read:05 | [Read:05](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:05)
-Read:06 | [Read:06](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:06)
-Read:07 | [Read:07](https://mohammad-abdul-ghafour.github.io/reading-notes/Read:07)
-Growth Mindset | [Growth Mindset](https://mohammad-abdul-ghafour.github.io/reading-notes/Growth-Mindset)
+Read:01 | [Learning Markdown](102/Read:01.md)
+Read:02 | [Revisions and the Cloud](102/Read:02.md)
+Read:03 | [Structure web pages with HTML](102/Read:03.md)
+Read:04 | [Dynamic web pages with JavaScript](102/Read:04.md)
+Read:05 | [Operators and Loops](102/Read:05.md)
+Read:06 | [Design web pages with CSS](102/Read:06.md)
+Read:07 | [Programming with JavaScript](102/Read:07.md)
+Growth Mindset | [Growth Mindset](102/Growth-Mindset.md)
 
 ## Readings for 201:
 
+READS | LINKS
+--------- | ---------
+Read:01 | [Introductory HTML and JavaScript](201/class-01.md)
