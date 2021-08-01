@@ -32,3 +32,4 @@ Growth Mindset | [Growth Mindset](102/Growth-Mindset.md)
 READS | LINKS
 --------- | ---------
 Read:01 | [Introductory HTML and JavaScript](201/class-01.md)
+Read:02 | [Basics of HTML, CSS & JS](201/class-02.md)
