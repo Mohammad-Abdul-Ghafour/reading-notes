@@ -33,3 +33,4 @@ READS | LINKS
 --------- | ---------
 Read:01 | [Introductory HTML and JavaScript](201/class-01.md)
 Read:02 | [Basics of HTML, CSS & JS](201/class-02.md)
+Read:03 | [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md)
