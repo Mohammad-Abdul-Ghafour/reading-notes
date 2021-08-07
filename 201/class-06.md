@@ -38,6 +38,7 @@ It represents the page so that programs can change the document structure, style
 In other words DOM is to manipulate HTML documents.
 ### DOM Tree :
 The DOM represents HTML as a tree structure of tags. Here’s how it looks:
+
 ![DOM Tree](https://www.researchgate.net/profile/Jian-Chang-8/publication/254002847/figure/fig1/AS:298235726974978@1448116346303/Example-of-DOM-Node-Tree.png)
 
 Every tree node is an object.
