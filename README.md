@@ -43,4 +43,4 @@ Read:09 | [Forms and JS Events](201/class-09.md)
 Read:010 | [JS Debugging](201/class-010.md)
 Read:011 | [Audio, Video, Images](201/class-11.md)
 Read:12 | [Docs for the HTML `<canvas>` Element & Chart.js](201/class-12.md)
-
+Read:13 | [Local Storage](201/class-13.md)
