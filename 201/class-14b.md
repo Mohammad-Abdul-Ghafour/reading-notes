@@ -1,7 +1,7 @@
 # What Google Learned About Teams
 9 years ago, **`Google`** set out to find what makes the ‘perfect’ team — and what they found shocked other researchers.
 
-![](https://static01.nyt.com/images/2016/02/28/magazine/28mag-teams1/28mag-teams1-superJumbo.jpg?quality=90&auto=webp)
+![Google Research Image](https://static01.nyt.com/images/2016/02/28/magazine/28mag-teams1/28mag-teams1-superJumbo.jpg?quality=90&auto=webp)
 
 Put five, eight, 12 or more people together in a room, and it’s a crapshoot as to how well they’ll function as a team. The larger the group, the more difficult it becomes.
 

@@ -17,9 +17,9 @@ The result will be as follows :
 
 ### Transforms Property Values :
 
-![Transforms Property Values Image 1](/201/IMG/Transform.png)
+![Transforms Property Values Image 1](IMG/Transform.png)
 
-![Transforms Property Values Image 2](/201/IMG/Transform1.png)
+![Transforms Property Values Image 2](IMG/Transform1.png)
 
 ## CSS Transitions :
 ### What is CSS Transitions ?
