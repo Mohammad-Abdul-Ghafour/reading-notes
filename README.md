@@ -1,3 +1,7 @@
+# Reading Notes
+
+This is reading notes for full stack developer course at ASAC.
+
 ### Introduction of my self:
 My name is **Mohammad Abdul Ghafour**, I'm an **Auto Control and Computers Engineer**.
 
@@ -14,7 +18,7 @@ This reading notes is about web development it covers some basic info about ***H
 
 # Table of Contents
 
-## Readings for 102:
+## Code 102 - Intro to Software Development :
 
 READS | LINKS
 --------- | ---------
@@ -27,7 +31,7 @@ Read:06 | [Design web pages with CSS](102/Read:06.md)
 Read:07 | [Programming with JavaScript](102/Read:07.md)
 Growth Mindset | [Growth Mindset](102/Growth-Mindset.md)
 
-## Readings for 201:
+## Code 201 - Foundations of Software Development :
 
 READS | LINKS
 --------- | ---------
@@ -46,3 +50,43 @@ Read:12 | [Docs for the HTML `<canvas>` Element & Chart.js](201/class-12.md)
 Read:13 | [Local Storage](201/class-13.md)
 Read:14a | [CSS Transforms, Transitions, and Animations](201/class-14a.md)
 Read:14b | [What Google Learned About Teams](201/class-14b.md)
+
+## Code 301 - Intermediate Software Development :
+
+READS | LINKS
+--------- | ---------
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+
+## Code 401 - Advanced Software Development :
+
+READS | LINKS
+--------- | ---------
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
+Read: | []()
