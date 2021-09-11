@@ -55,7 +55,7 @@ Read:14b | [What Google Learned About Teams](201/class-14b.md)
 
 READS | LINKS
 --------- | ---------
-Read: | []()
+Read:01 | [Introduction to React and Components](301/Read:01.md)
 Read: | []()
 Read: | []()
 Read: | []()
