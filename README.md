@@ -58,7 +58,7 @@ READS | LINKS
 Read:01 | [Introduction to React and Components](301/Read:01.md)
 Read:02 | [State and Props](301/Read:02.md)
 Read:03 | [Passing Functions as Props](301/Read:03.md)
-Read: | []()
+Read:04 | [React and Forms](301/Read:04.md)
 Read: | []()
 Read: | []()
 Read: | []()
