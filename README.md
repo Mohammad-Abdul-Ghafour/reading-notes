@@ -67,7 +67,7 @@ Read:09 | [FUNCTIONAL PROGRAMMING](301/Read:09.md)
 Read:10 | [In memory storage](301/Read:10.md)
 Read:11 | [Authentication](301/Read:11.md)
 Read:12 | [Mongo and Mongoose](301/Read:12.md)
-Read: | []()
+Read:13 | [CRUD](301/Read:13.md)
 Read: | []()
 Read: | []()
 
