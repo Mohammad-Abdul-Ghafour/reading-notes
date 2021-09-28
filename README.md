@@ -68,7 +68,7 @@ Read:10 | [In memory storage](301/Read:10.md)
 Read:11 | [Authentication](301/Read:11.md)
 Read:12 | [Mongo and Mongoose](301/Read:12.md)
 Read:13 | [CRUD](301/Read:13.md)
-Read: | []()
+Read:14 | [Project Ideas](301/Read:14.m)
 Read: | []()
 
 ## Code 401 - Advanced Software Development :
