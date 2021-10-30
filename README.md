@@ -69,13 +69,12 @@ Read:11 | [Authentication](301/Read:11.md)
 Read:12 | [Mongo and Mongoose](301/Read:12.md)
 Read:13 | [CRUD](301/Read:13.md)
 Read:14 | [Project Ideas](301/Read:14.md)
-Read: | []()
 
 ## Code 401 - Advanced Software Development :
 
 READS | LINKS
 --------- | ---------
-Read: | []()
+Read: | [Topic](401/Read:01.md)
 Read: | []()
 Read: | []()
 Read: | []()
