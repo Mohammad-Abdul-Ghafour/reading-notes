@@ -74,9 +74,9 @@ Read:14 | [Project Ideas](301/Read:14.md)
 
 READS | LINKS
 --------- | ---------
-Read: | [Topic](401/Read:01.md)
-Read: | [Testing and Modules](401/Read:02.md)
-Read: | []()
+Read:01 | [Topic](401/Read:01.md)
+Read:02 | [Testing and Modules](401/Read:02.md)
+Read:03 | [FileIO & Exceptions](401/Read:03.md)
 Read: | []()
 Read: | []()
 Read: | []()
