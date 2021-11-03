@@ -7,6 +7,8 @@
 A node only knows about what data it contains, and who its neighbor is.
 ```
 
+![Linked Lists](https://files.realpython.com/media/Python-Linked-Lists-Guide_Watermarked.421631d9a615.jpg)
+
 ## Array vs. Linked Lists :
 
 Array  | Linked Lists
@@ -30,7 +32,7 @@ next | a reference to the next node in the list.
 previous | a reference to the previous node in the list.
 null | indicates the end of the list.
 
-![Vocabulary Terms](https://cdn.programiz.com/sites/tutorial2program/files/linked-list-concept_0.png)
+![Vocabulary Terms](https://files.realpython.com/media/Group_14.27f7c4c6ec02.png)
 
 ## Linked Lists and Big O :
 
