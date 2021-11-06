@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker",
+        "googlecloudtools.cloudcode",
+        "mindaro.mindaro"
+    ]
+}
