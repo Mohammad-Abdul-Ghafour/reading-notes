@@ -2,7 +2,8 @@
 
 This is reading notes for full stack developer course at ASAC.
 
-### Introduction of my self:
+## Introduction of my self
+
 My name is **Mohammad Abdul Ghafour**, I'm an **Auto Control and Computers Engineer**.
 
 I'm passionate about coding and my dream is to have a software development company someday.
@@ -10,15 +11,16 @@ I'm also enjoying this course, thanks for this opportunity.
 
 This reading notes is about web development it covers some basic info about ***HTML***, ***Css*** , ***JavaScript*** and ***git***.
 
-#### You can contact me on:
+### You can contact me on
+
 * **[FACEBOOK](https://ar-ar.facebook.com/)**
 * **[WHATSAPP](https://www.whatsapp.com/)**
 
 #### And please feel free to visit my GitHub portfolio page: [**GITHUB**](https://github.com/Mohammad-Abdul-Ghafour)
 
-# Table of Contents
+## Table of Contents
 
-## Code 102 - Intro to Software Development :
+### Code 102 - Intro to Software Development
 
 READS | LINKS
 --------- | ---------
@@ -31,7 +33,7 @@ Read:06 | [Design web pages with CSS](102/Read:06.md)
 Read:07 | [Programming with JavaScript](102/Read:07.md)
 Growth Mindset | [Growth Mindset](102/Growth-Mindset.md)
 
-## Code 201 - Foundations of Software Development :
+### Code 201 - Foundations of Software Development
 
 READS | LINKS
 --------- | ---------
@@ -51,7 +53,7 @@ Read:13 | [Local Storage](201/class-13.md)
 Read:14a | [CSS Transforms, Transitions, and Animations](201/class-14a.md)
 Read:14b | [What Google Learned About Teams](201/class-14b.md)
 
-## Code 301 - Intermediate Software Development :
+### Code 301 - Intermediate Software Development
 
 READS | LINKS
 --------- | ---------
@@ -70,7 +72,7 @@ Read:12 | [Mongo and Mongoose](301/Read:12.md)
 Read:13 | [CRUD](301/Read:13.md)
 Read:14 | [Project Ideas](301/Read:14.md)
 
-## Code 401 - Advanced Software Development :
+### Code 401 - Advanced Software Development
 
 READS | LINKS
 --------- | ---------
@@ -105,3 +107,4 @@ Read:28 | [Graphs](401/Read:28.md)
 Read:29 | [DSA Review](401/Read:29.md)
 Read:30 | [React 1](401/Read:30.md)
 Read:31 | [React 2](401/Read:31.md)
+Read:32 | [React 3](401/Read:32.md)
